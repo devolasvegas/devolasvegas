@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+⚡ Fun fact: I just learned how to ["The GitHub Profile Trick"](https://css-tricks.com/the-github-profile-trick/) this morning!
+
 <!--
 **devolasvegas/devolasvegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
